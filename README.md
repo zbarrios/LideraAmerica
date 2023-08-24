@@ -1,6 +1,6 @@
 # Lidera America
 
-El proyecto está configurado para funcionar con una base de datos H2 volátil. Si se desea cambiarla, 
+El proyecto está configurado para funcionar con una base de datos H2 volátil. Si se desea cambiar, 
 se puede hacer a través de la configuración en el archivo application.properties.
 
 ## H2 Console
